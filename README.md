@@ -6,7 +6,7 @@ Play it now at [https://electricsheep.jugovic.io](https://electricsheep.jugovic.
 
 <br>
 <div align="center">
-    <img src="https://imgur.com/a/yGw5SxE.jpg" alt="Electric Sheep Screenshot" width="85%" />
+    <img src="https://i.imgur.com/aHmHdfy.png" alt="Electric Sheep Screenshot" width="85%" />
 </div>
 <br>
 
